@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndata91&label=Profile%20views&color=0e75b6&style=flat" alt="johndata91" /> </p>
 
-- 🌱 I’m currently learning **Python,Numpy**
+- 🌱 I’m currently learning **Python,Numpy,pandas,matploit**
 
 - 💬 Ask me about **Excel, Power BI,SQL**
 
