@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Numpy,pandas,matploit**
 
-- 💬 Ask me about **Excel, Power BI,SQL**
+- 💬 Ask me about **Data Analysis,Excel, Power BI,SQL,python**
 
 - 📫 How to reach me **ibidunnijohn0@gmail.com**
 
